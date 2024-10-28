@@ -1,6 +1,6 @@
-Схема
+СХЕМА
 
-![Схема](scheme.png)
+![Alt text](scheme.png)
 
 
 
